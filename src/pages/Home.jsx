@@ -22,7 +22,7 @@ function Home() {
 					onChange={(e) => setUserId(e.target.value)}
 					placeholder="사용자 ID를 입력하세요"
 				/>
-				<button type="submit">일기장으로 이동</button>
+				<button type="submit">일기장으로 이동 </button>
 			</form>
 		</div>
 	);
